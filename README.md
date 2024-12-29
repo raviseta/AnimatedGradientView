@@ -1,6 +1,4 @@
 # AnimatedGradientView using SwiftUI
 
-
-
-https://github.com/user-attachments/assets/0b89ec60-17ce-42f7-879e-b4569b18c6c2
+https://github.com/user-attachments/assets/2b5bfd81-a180-4ba0-bfcf-1c31238f7f21
 
