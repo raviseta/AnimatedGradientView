@@ -1,1 +1,1 @@
-# AnimatedGradientView
+# AnimatedGradientView using SwiftUI
